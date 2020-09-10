@@ -103,7 +103,7 @@ app.get('*', (req, res) => {
     res.render('404', {
         message: 'Page not found',
         title: '404',
-        name: 'Arsenijs'
+        name: 'Klift'
     })
 })
 
